@@ -9,11 +9,11 @@
 
                 default_layer {
                       bindings = <
-                       &kp FSLH     &kp EQUAL    &kp KP_MULTIPLY       &kp MINU
-                       &kp N7       &kp N8       &kp N9                &kp PLUS
-                       &kp N4       &kp N5       &kp N6 
-                       &kp N1       &kp N2       &kp N3
-                       &mo          &kp N0       &kp DOT               &rgb_ug RGB_TOG
+                       &kp N1       &kp N2       &kp N3       &rgb_ug RGB_TOG
+                       &kp N4       &kp N5       &kp N6       &kp MINUS 
+                       &kp N7       &kp N8       &kp N9 
+                       &kp E        &kp R        &kp T
+                       &kp Y        &kp U        &kp I        &kp O 
 
                                             >;
                               };
